@@ -126,4 +126,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_ALL_ORIGINS = True
-CSRF_TRUSTED_ORIGINS = ['http://localhost:8000'] ### will be changed with llive url
+CSRF_TRUSTED_ORIGINS = ['https://web-production-49a6.up.railway.app'] ### will be changed with llive url
